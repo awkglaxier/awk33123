@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c33,50:0e7490,100:14b8a6&height=220&section=header&text=AWOKEN-33123&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20%E2%80%A2%20Lua%20Developer&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:022c33,50:0e7490,100:14b8a6&height=220&section=header&text=Glaxier&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FiveM%20%E2%80%A2%20Lua%20Developer&descAlignY=58&descSize=20" width="100%" />
 
-<a href="https://github.com/awk33123">
+<a href="https://github.com/awkglaxier">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Building+high-performance+FiveM+resources;Backend+systems+%26+modern+NUI;Clean+code.+Fast+scripts.+Zero+lag." alt="Typing SVG" />
 </a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=awk33123&style=for-the-badge&color=0d9488&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/awk33123?style=for-the-badge&logo=github&color=0e7490)
-![Stars](https://img.shields.io/github/stars/awk33123?style=for-the-badge&logo=github&color=0e7490)
+![Profile Views](https://komarev.com/ghpvc/?username=awkglaxier&style=for-the-badge&color=0d9488&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/awkglaxier?style=for-the-badge&logo=github&color=0e7490)
+![Stars](https://img.shields.io/github/stars/awkglaxier?style=for-the-badge&logo=github&color=0e7490)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=awk33123&hide_border=true&background=0D1117&stroke=0E7490&ring=2DD4BF&fire=14B8A6&currStreakNum=5EEAD4&currStreakLabel=2DD4BF&sideNums=CCFBF1&sideLabels=99F6E4&dates=5EEAD4" />
+<img src="https://streak-stats.demolab.com?user=awkglaxier&hide_border=true&background=0D1117&stroke=0E7490&ring=2DD4BF&fire=14B8A6&currStreakNum=5EEAD4&currStreakLabel=2DD4BF&sideNums=CCFBF1&sideLabels=99F6E4&dates=5EEAD4" />
 
 </div>
 
@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/14b8a6/awk33123" alt="Contribution Graph" width="100%" />
+<img src="https://ghchart.rshah.org/14b8a6/awkglaxier" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -81,7 +81,7 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-𝕲𝖑𝖆𝖝𝖎𝖊𝖗-0e7490?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1489681022059806873)
-[![GitHub](https://img.shields.io/badge/GitHub-AWOKEN-0d9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awk33123)
+[![GitHub](https://img.shields.io/badge/GitHub-AWOKEN-0d9488?style=for-the-badge&logo=github&logoColor=white)](https://github.com/awkglaxier)
 
 </div>
 
